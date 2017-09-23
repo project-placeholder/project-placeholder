@@ -1,4 +1,5 @@
 # Project Placeholder
+
 Exciting. Intriguing. Not a real project.
 
 ## A place to try out collaborative working on GitHub
@@ -9,7 +10,7 @@ Rather than find out on the day that we have problems with using branches or pul
 
 Add to this list as we find out what we need. Edit any sections that are incorrect or could be more clear.
 
-1. Clone this project to your machine.
+1. [Clone this project to your machine.](https://github.com/project-placeholder/project-placeholder#cloning-this-project)
 1. Make a new branch.
 1. Make a change (maybe a new file or a new section here in the readme).
 1. Push that branch (not master) to this repository on GitHub.
