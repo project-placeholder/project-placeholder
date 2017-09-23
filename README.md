@@ -2,6 +2,8 @@
 
 Exciting. Intriguing. Not a real project.
 
+### [View the placeholder website here](https://project-placeholder.github.io/project-placeholder/)
+
 ## A place to try out collaborative working on GitHub
 
 Rather than find out on the day that we have problems with using branches or pull requests or code reviewing, this is a place to try things out and establish guidelines on how we will work as a team. This readme is a work in progress which everyone should feel free to edit and add to (subject to every change being peer reviewed by another member, for practice).
